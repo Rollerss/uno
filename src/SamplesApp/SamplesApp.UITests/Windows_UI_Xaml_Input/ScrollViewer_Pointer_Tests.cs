@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using NUnit.Framework;
 using SamplesApp.UITests.Extensions;
+using SamplesApp.UITests.TestFramework;
 
 namespace SamplesApp.UITests.Windows_UI_Xaml_Input
 {
